@@ -1,6 +1,6 @@
 # Prime-Sifting
 
-there is 3 versions of app : prime_sifring and v2_prime sifting and v2_prime_sifting
+there is 3 versions of app : prime_sifring and v2_prime sifting and v3_prime_sifting
 
 
 # task 
