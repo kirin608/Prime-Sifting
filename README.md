@@ -1,6 +1,7 @@
 # Prime-Sifting
 
-there is 2 versions of app : prime_sifring and v2_prime sifting
+there is 3 versions of app : prime_sifring and v2_prime sifting and v2_prime_sifting
+
 
 # task 
 Given a number, write a method that returns all of the prime numbers less than that number.
